@@ -6,14 +6,9 @@ This project analyzes the Olist e-commerce dataset to uncover insights into sale
 The goal is to support data-driven decision making using interactive Power BI dashboards.
 
  Dataset
-The dataset used is the Brazilian Olist E-commerce dataset, which contains information on:
-	•	Customers
-	•	Orders
-	•	Payments
-	•	Products
-	•	Sellers
-	•	Reviews
-	•	Delivery timelines
+Original Dataset: Olist Brazilian E-commerce Dataset (Kaggle, 163 MB)  
+Included in this repo: A sample dataset (olist_data_sample.csv) to reproduce the analysis and dashboards.
+Note: The full dataset is not included due to GitHub file size limits.
 
  Tools Used
 	•	Power BI – Data modeling, DAX measures, and dashboard creation
@@ -43,6 +38,10 @@ Some of the insights explored in this project include:
 Dashboard Preview
 Overview (images/dashboard_overview.png)
 Sales Analysis (images/business_analysis.png)
+Delivery Performance(images/delivery_performance.png)
+
+Note: The full Power BI file (.pbix) is not included due to GitHub file size limits.  
+The screenshots above show all key visuals from the dashboard.
 
  Key Skills Demonstrated
 	•	Data cleaning and transformation
