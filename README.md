@@ -19,6 +19,13 @@ The dataset used is the Brazilian Olist E-commerce dataset, which contains infor
 	•	Power BI – Data modeling, DAX measures, and dashboard creation
 	•	Power Query – Data cleaning and transformation
 
+Project Structure
+- data/: Raw Olist dataset used for analysis  
+- powerbi/: Power BI dashboard file  
+- reports/: Insight and analysis report  
+- slides/: Stakeholder presentation summarizing key findings  
+- images/: Dashboard screenshots for preview
+
 Key Analysis & Insights
 Some of the insights explored in this project include:
 	•	Sales and revenue trends over time
@@ -33,6 +40,10 @@ Some of the insights explored in this project include:
 	•	Visuals including bar charts, line charts, and maps
 	•	Clean and user-friendly layout for business insights
 
+Dashboard Preview
+Overview (images/dashboard_overview.png)
+Sales Analysis (images/business_analysis.png)
+
  Key Skills Demonstrated
 	•	Data cleaning and transformation
 	•	Data modeling and relationships
@@ -40,14 +51,14 @@ Some of the insights explored in this project include:
 	•	Data visualization and storytelling
 	•	Business insight generation
 
-📂 Project Files
+ Project Files
 	•	Power BI dashboard file (.pbix)
 	•	Supporting documentation 
 
-🔗 How to View the Dashboard
+ How to View the Dashboard
 	1.	Download the .pbix file from this repository
 	2.	Open it using Power BI Desktop
   
-📬 Contact
+Contact
 
 For questions, feedback, or collaboration opportunities, feel free to reach out.
