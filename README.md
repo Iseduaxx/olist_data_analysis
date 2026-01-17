@@ -40,8 +40,8 @@ Overview (images/dashboard_overview.png)
 Sales Analysis (images/business_analysis.png)
 Delivery Performance(images/delivery_performance.png)
 
-Note: The full Power BI file (.pbix) is not included due to GitHub file size limits.  
-The screenshots above show all key visuals from the dashboard.
+**Note: The full Power BI file (.pbix) is not included due to GitHub file size limits.  
+The screenshots above show all key visuals from the dashboard.**
 
  Key Skills Demonstrated
 	•	Data cleaning and transformation
@@ -51,13 +51,9 @@ The screenshots above show all key visuals from the dashboard.
 	•	Business insight generation
 
  Project Files
-	•	Power BI dashboard file (.pbix)
-	•	Supporting documentation 
+	**Note; The full Power BI file pbix is not included due to GitHub files size limits.
+	Screenshots of some dashboard were included to Support documentation**
 
- How to View the Dashboard
-	1.	Download the .pbix file from this repository
-	2.	Open it using Power BI Desktop
-  
 Contact
 
 For questions, feedback, or collaboration opportunities, feel free to reach out.
