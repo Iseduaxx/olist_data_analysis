@@ -1,11 +1,11 @@
 # olist_data_analysis
 Olist E-commerce Analysis (Power BI)
-Project Overview
 
+Project Overview
 This project analyzes the Olist e-commerce dataset to uncover insights into sales performance, customer behavior, order trends, and delivery efficiency.
 The goal is to support data-driven decision making using interactive Power BI dashboards.
 
- Dataset
+Dataset
 Original Dataset: Olist Brazilian E-commerce Dataset (Kaggle, 163 MB)  
 Included in this repo: A sample dataset (olist_data_sample.csv) to reproduce the analysis and dashboards.
 Note: The full dataset is not included due to GitHub file size limits.
@@ -42,6 +42,8 @@ Delivery Performance(images/delivery_performance.png)
 
 **Note: The full Power BI file (.pbix) is not included due to GitHub file size limits.  
 The screenshots above show all key visuals from the dashboard.**
+**Note: Project Report Detailed insights and business recommendations are documented here:  
+Download Full Insight Report (PDF) reports/olist%20project%20INSIGHT.pdf**
 
  Key Skills Demonstrated
 	•	Data cleaning and transformation
